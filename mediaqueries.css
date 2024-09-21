@@ -1,0 +1,17 @@
+@media screen and (max-width: 1200px) {
+    #content-wrapper {
+        padding: 0 1.5rem;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    #content-wrapper {
+        padding: 0 1rem;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    #content-wrapper {
+        padding: 0 0.5rem;
+    }
+}
